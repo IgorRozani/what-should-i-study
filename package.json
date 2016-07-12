@@ -1,0 +1,30 @@
+{
+  "name": "what-should-i-study",
+  "version": "1.0.0",
+  "description": "What should I study?",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorRozani/what-should-i-study.git"
+  },
+  "keywords": [
+    "Angular",
+    "express",
+    "javascript",
+    "node"
+  ],
+  "author": "Igor Rozani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IgorRozani/what-should-i-study/issues"
+  },
+  "homepage": "https://github.com/IgorRozani/what-should-i-study#readme",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "bootstrap": "^3.3.6",
+    "express": "^4.14.0"
+  }
+}
