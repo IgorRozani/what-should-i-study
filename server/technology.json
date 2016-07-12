@@ -1,25 +1,73 @@
-[
-  {
+[{
     "name": "AngularJS",
     "slogan": "HTML enhanced for web apps!",
     "link": "https://angularjs.org/"
-  },{
-    "name":"Ember",
+}, {
+    "name": "Ember",
     "slogan": "A framework for creating ambitious web applications",
     "link": "http://emberjs.com/"
-  },{
+}, {
     "name": "Vue.js",
     "slogan": "Reactive Components for Modern Web Interfaces",
     "link": "https://vuejs.org/"
-  },
-  {
+}, {
     "name": "Cycle.js",
     "slogan": "A functional and reactive JavaScript framework for cleaner code",
     "link": "http://cycle.js.org/"
-  },
-  {
-    "name": "Cassandra",
-    "slogan": "<p>The Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data. Cassandra's support for replicating across multiple datacenters is best-in-class, providing lower latency for your users and the peace of mind of knowing that you can survive regional outages.</p><p>Cassandra's data model offers the convenience of column indexes with the performance of log-structured updates, strong support for denormalization and materialized views, and powerful built-in caching.</p>",
-    "link": "http://cassandra.apache.org/"
-  }
-]
+}, {
+    "name": "Aurelia",
+    "slogan": "Build your imagination",
+    "link": "http://aurelia.io/"
+}, {
+    "name": "React",
+    "slogan": "A javascript library for building user insterfaces",
+    "link": "https://facebook.github.io/react/"
+}, {
+    "name": "Polymer",
+    "slogan": "#UseThePlatform to build a better web",
+    "link": "https://www.polymer-project.org/"
+}, {
+    "name": "Angular2",
+    "slogan": "One framework. Mobile and desktop.",
+    "link": "https://angular.io/"
+}, {
+    "name": "Electron",
+    "slogan": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
+    "link": "http://electron.atom.io/"
+}, {
+    "name": "Bower",
+    "slogan": "A package manager for the web",
+    "link": "https://bower.io/"
+}, {
+    "name": "Gulp",
+    "slogan": "Automate and enhance your workflow",
+    "link": "http://gulpjs.com/"
+}, {
+    "name": "Grunt",
+    "slogan": "The JavaScript Task Runner",
+    "link": "http://gruntjs.com/"
+}, {
+    "name": "Sass",
+    "slogan": "CSS with superpowers",
+    "link": "http://sass-lang.com/"
+}, {
+    "name": "TypeScript",
+    "slogan": "JavaScript that scales",
+    "link": "http://www.typescriptlang.org/"
+}, {
+    "name": "Yeoman",
+    "slogan": "The web's scaffolding toolfor modern webapps",
+    "link": "http://yeoman.io/"
+}, {
+    "name": "Jenkins",
+    "slogan": "Build great things at any scale",
+    "link": "https://jenkins.io/"
+}, {
+    "name": "Dart",
+    "slogan": "Scalable, productive app development",
+    "link": "https://www.dartlang.org/"
+},{
+  "name":"Meteor",
+  "slogan":"The fastest way to build JavaScript Apps",
+  "link":"https://www.meteor.com/"
+  }]
