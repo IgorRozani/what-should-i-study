@@ -24,6 +24,8 @@
   "homepage": "https://github.com/IgorRozani/what-should-i-study#readme",
   "dependencies": {
     "angular": "^1.5.7",
+    "angular-resource": "^1.5.7",
+    "angular-route": "^1.5.7",
     "bootstrap": "^3.3.6",
     "express": "^4.14.0"
   }
